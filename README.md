@@ -15,7 +15,7 @@ Results
 Results
 Here is the phylogenetic tree: (Insert the image, see the markdown cheat sheet for how to do that)
 
-![alt text](<img width="317" height="464" alt="final_project_tree" src="https://github.com/user-attachments/assets/59ed1afb-6ecd-4f93-95f6-93c46669e20d" />
+!(<img width="317" height="464" alt="final_project_tree" src="https://github.com/user-attachments/assets/59ed1afb-6ecd-4f93-95f6-93c46669e20d" />
 )
 
 Explain
